@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.AI;
 
+
 public class LevelGenerator : MonoBehaviour {
 
 	public NavMeshSurface surface;
